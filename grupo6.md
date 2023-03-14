@@ -1,4 +1,4 @@
-# Gurpo 6
+# Grupo 6
 
 | Nome | Sobrenome| GitHub | Linkedin |
 |:-:|:-:|:-:|:-:|
